@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: HKGrotesk-Light
+font link: https://hanken.co/product/hk-grotesk/
+font author: Hanken Design Co.
+font author site: https://hanken.co/
+
+
+icon designer: Prerak Patel
+icon designer link: /prerakpatel
+        
+
+fontColor: {"gradient-0":"#2F8632","gradient-1":"#76e607"}
+bgColor: {"hex":"transparent"}
+iconColor: {"gradient-0":"#2F8632","gradient-1":"#76e607"}
+
+      
